@@ -5,6 +5,6 @@
   "repo" : "ansible",
   "published_version" : "7.1.0",
   "published_date" : "2022-12-29",
-  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1",
   "docker" : "NA"
 }
