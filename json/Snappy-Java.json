@@ -5,5 +5,6 @@
   "repo" : "snappy-java",
   "published_version" : "1.1.9.1",
   "published_date" : "2023-02-15",
+  "docker" : "NA",
   "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
 }
