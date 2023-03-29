@@ -5,6 +5,6 @@
   "repo" : "flume",
   "published_version" : "1.11.0",
   "published_date" : "2022-11-16",
-  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1",
   "docker" : "NA"
 }
