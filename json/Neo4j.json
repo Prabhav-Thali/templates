@@ -6,5 +6,5 @@
   "published_version" : "4.4.10",
   "published_date" : "2022-09-20",
   "docker" : "file",
-  "distros" : "rh7.9, rh8.4, rh8.6, rh9.0, sl15.4, ub18.04, ub20.04, ub22.04",
+  "distros" : "rh7.9, rh8.4, rh8.6, rh9.0, sl15.4, ub18.04, ub20.04, ub22.04"
 }
