@@ -6,5 +6,5 @@
   "published_version" : "1.1.9.1",
   "published_date" : "2023-02-15",
   "docker" : "NA",
-  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+  "distros" : "rh7.8, rh7.9, rh8.4, rh8.6, rh8.7, rh9.0, rh9.1, sl12.5, sl15.4, ub18.04, ub20.04, ub22.04, ub22.10"
 }
