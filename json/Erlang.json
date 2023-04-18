@@ -1,0 +1,10 @@
+{
+  "package_name" : "Erlang",
+  "github_url" : "https://github.com/erlang/otp",
+  "org" : "erlang",
+  "repo" : "otp",
+  "published_version" : "25.2",
+  "published_date" : "2023-01-25",
+  "distros" : "ub18.04,ub20.04,ub22.04,ub22.10,rh7.8,rh7.9,rh8.4,rh8.6,rh8.7,rh9.0,rh9.1,sl12.5,sl15.4",
+  "docker" : "image"
+}
