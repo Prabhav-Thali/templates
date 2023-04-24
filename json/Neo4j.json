@@ -3,8 +3,8 @@
   "github_url" : "https://github.com/neo4j/neo4j",
   "org" : "neo4j",
   "repo" : "neo4j",
-  "published_version" : "4.4.10",
-  "published_date" : "2022-09-20",
+  "published_version" : "5.6.0",
+  "published_date" : "2023-04-13",
   "docker" : "file",
   "distros" : "rh7.9, rh8.4, rh8.6, rh9.0, sl15.4, ub18.04, ub20.04, ub22.04"
 }
