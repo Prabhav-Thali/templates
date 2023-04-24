@@ -3,8 +3,8 @@
   "github_url" : "https://github.com/rethinkdb/rethinkdb",
   "org" : "rethinkdb",
   "repo" : "rethinkdb",
-  "published_version" : "2.4.2",
-  "published_date" : "2022-05-27",
+  "published_version" : "2.4.3",
+  "published_date" : "2023-04-13",
   "docker" : "image",
-  "distros" : "rh7.8, rh7.9, rh8.4, rh8.5, sl12.5, ub18.04, ub20.04, ub22.04"
+  "distros" : "rh7.8, rh7.9, rh8.4, rh8.6, rh8.7, rh9.0, rh9.1, sl12.5, sl15.4, ub18.04, ub20.04, ub22.04, ub22.10"
 }
