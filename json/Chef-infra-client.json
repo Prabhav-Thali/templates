@@ -1,0 +1,10 @@
+{
+  "package_name" : "chef",
+  "github_url" : "https://github.com/chef/chef",
+  "org" : "chef",
+  "repo" : "chef",
+  "published_version" : "18.0.185",
+  "published_date" : "2022-12-28",
+  "distros" : "rh7.8, rh7.9, rh8.4, rh8.6, rh8.7, rh9.0, rh9.1, sl12.5, sl15.4, ub18.04, ub20.04, ub22.04, ub22.10",
+  "docker" : "NA"
+}
