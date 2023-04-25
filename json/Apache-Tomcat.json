@@ -1,5 +1,5 @@
 {
-  "package_name" : "Apache",
+  "package_name" : "tomcat",
   "github_url" : "https://github.com/apache/tomcat",
   "org" : "apache",
   "repo" : "tomcat",
