@@ -6,5 +6,6 @@
   "published_version" : "1.6.2",
   "published_date" : "2022-11-14",
   "distros" : "rh7.9, rh7.9, rh8.4, rh9.1",
-  "docker" : "NA"
+  "docker" : "NA",
+  "epic" : "https://github.ibm.com/loz/opensource-porting-s390x/issues/365"
 }
