@@ -1,5 +1,5 @@
 {
-  "package_name" : "chef intra client",
+  "package_name" : "Chef-Infra-Client",
   "github_url" : "https://github.com/chef/chef",
   "org" : "chef",
   "repo" : "chef",
