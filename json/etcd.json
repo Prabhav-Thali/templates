@@ -6,5 +6,6 @@
   "published_version" : "3.5.7",
   "published_date" : "2023-04-13",
   "distros" : "rh7.8, rh7.9, rh8.4, rh8.6, rh8.7, rh9.0, rh9.1, sl12.5, sl15.4, ub18.04, ub20.04, ub22.04, ub22.10",
-  "docker" : "image"
+  "docker" : "image",
+  "epic" : "https://github.ibm.com/loz/opensource-porting-s390x/issues/611"
 }
