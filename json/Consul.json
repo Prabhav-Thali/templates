@@ -1,5 +1,5 @@
 {
-  "package_name" : "consul",
+  "package_name" : "Consul",
   "github_url" : "https://github.com/hashicorp/consul",
   "org" : "hashicorp",
   "repo" : "consul",
