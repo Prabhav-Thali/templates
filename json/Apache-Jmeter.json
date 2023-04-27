@@ -1,5 +1,5 @@
 {
-  "package_name" : "jmeter",
+  "package_name" : "ApacheJMeter",
   "github_url" : "https://github.com/apache/jmeter",
   "org" : "apache",
   "repo" : "jmeter",
