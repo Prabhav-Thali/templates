@@ -1,5 +1,5 @@
 {
-  "package_name" : "zookeeper",
+  "package_name" : "Apache-Zookeeper",
   "github_url" : "https://github.com/apache/zookeeper",
   "org" : "apache",
   "repo" : "zookeeper",
