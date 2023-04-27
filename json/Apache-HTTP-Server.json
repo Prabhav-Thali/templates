@@ -1,5 +1,5 @@
 {
-  "package_name" : "Apache HTTP Server",
+  "package_name" : "Apache-HTTP-Server",
   "github_url" : "https://github.com/apache/httpd",
   "org" : "apache",
   "repo" : "httpd",
