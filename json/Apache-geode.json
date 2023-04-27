@@ -1,5 +1,5 @@
 {
-  "package_name" : "geode",
+  "package_name" : "ApacheGeode",
   "github_url" : "https://github.com/apache/geode",
   "org" : "apache",
   "repo" : "geode",
