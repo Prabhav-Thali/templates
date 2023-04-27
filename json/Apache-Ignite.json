@@ -1,5 +1,5 @@
 {
-  "package_name" : "apache",
+  "package_name" : "ApacheIgnite",
   "github_url" : "https://github.com/apache/ignite",
   "org" : "apache",
   "repo" : "ignite",
