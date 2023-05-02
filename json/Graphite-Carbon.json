@@ -1,0 +1,11 @@
+{
+  "package_name" : "GraphiteCarbon",
+  "github_url" : "https://github.com/graphite-project/carbon",
+  "org" : "graphite-project",
+  "repo" : "carbon",
+  "published_version" : "1.1.10",
+  "published_date" : "2022-08-10",
+  "distros" : "rh7.8, rh7.9, rh8.4, rh8.6, sl12.5, ub18.04, ub20.04, ub22.04",
+  "docker" : "image",
+  "epic" : "https://github.ibm.com/loz/opensource-porting-s390x/issues/207"
+}
