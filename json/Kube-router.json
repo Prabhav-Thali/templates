@@ -5,7 +5,7 @@
   "repo" : "kube-router",
   "published_version" : "1.5.3",
   "published_date" : "2023-01-13",
-  "distros" : "ub18.04",
+  "distros" : "ub18.04-k8s",
   "docker" : "image",
   "epic" : "https://github.ibm.com/loz/opensource-porting-s390x/issues/4763"
 }
