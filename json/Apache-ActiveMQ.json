@@ -1,5 +1,5 @@
 {
-  "package_name" : " ApacheActiveMQ",
+  "package_name" : "ApacheActiveMQ",
   "github_url" : "https://github.com/apache/activemq",
   "org" : "apache",
   "repo" : "activemq",
