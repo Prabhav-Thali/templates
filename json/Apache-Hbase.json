@@ -1,5 +1,5 @@
 {
-  "package_name" : " ApacheHBase",
+  "package_name" : "ApacheHBase",
   "github_url" : "https://github.com/apache/hbase",
   "org" : "apache",
   "repo" : "hbase",
